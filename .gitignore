@@ -136,3 +136,6 @@ temp/
 credentials.json
 
 # End of https://www.gitignore.io/api/node,firebase,appengine,visualstudiocode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
